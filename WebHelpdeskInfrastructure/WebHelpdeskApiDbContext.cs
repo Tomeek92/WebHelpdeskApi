@@ -1,7 +1,8 @@
-﻿
-using WebHelpdeskMVC.Encje.Models.Clients;
-using WebHelpdeskMVC.Encje.Models.Helpdesk;
-using WebHelpdeskMVC.Encje.Models.RegisterAndLoginModels;
+﻿using Microsoft.EntityFrameworkCore;
+using WebHelpdesk.Domain.Encje.Models.Helpdesk;
+using WebHelpdeskApi.Models.Clients;
+using WebHelpdeskApi.Models.Helpdesk;
+using WebHelpdeskApi.Models.RegisterAndLoginModels;
 
 
 namespace WebHelpdeskInfrastructure
